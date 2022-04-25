@@ -1,5 +1,5 @@
 # Shell codewars 
-**Bash scripts for codewars.**
+**Bash stuff I made in codewars**
 
 - [Python codewars.](https://github.com/r4v10l1/codewars-python)
 - [Rust codewars.](https://github.com/r4v10l1/codewars-rust)
